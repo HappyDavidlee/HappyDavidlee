@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working for [Accentrue](https://www.accentrue.com/)
+- 🔭 I’m currently working for [Accenture](https://www.accenture.com/)
 - 🌱 I’m currently learning Architecture Design
 - 📫 How to reach me: [@xudong-li.com](https://xudong-li.com/)
 - 💬 Ask me about Serverless/Cloud/Frontend
